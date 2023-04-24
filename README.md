@@ -3,7 +3,7 @@ This is a template for the ISS210's final webstie on social justice (not require
 You should use this file to drop citations for all the images, articles, etc. that you use. 
 Be sure to replace the following with your substitions.
 ISSFront: https://www.every.org/racial-justice
-SJImage1: https://www.pinterest.ca/pin/408772103654309571/
+SJImage1: https://www.google.com/url?sa=i&url=https%3A%2F%2Ftcf.org%2Fcontent%2Freport%2Fhow-racially-diverse-schools-and-classrooms-can-benefit-all-students%2F&psig=AOvVaw2lsX8fhZbNyotuAk31v6Xj&ust=1682435676401000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOi--bjnwv4CFQAAAAAdAAAAABAE
 SJImage2: Youtube
 SJImage3: https://bloody-disgusting.com/editorials/3601617/evolution-undead-brief-history-zombies-horror/
 SJImage4: https://stock.adobe.com/search?k=economic+justice 
